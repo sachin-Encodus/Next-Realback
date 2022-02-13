@@ -543,26 +543,4 @@ export const getServerSideProps = async (ctx) => {
 //   };
 // }
 
-// CLIENT_URL
-// https://realback4c.herokuapp.com
 
-// EMAIL
-// realback4c@gmail.com
-
-// JWT_ACC_ACTIVATE
-// accountactivateusingtoverifyemail
-
-// JWT_ACCOUNT_ACTIVATION
-// accountactivateusingtoverifygemail
-
-// JWT_RESET_PASSWORD
-// accountactivateusingtoverifygemailsachin
-
-// MONGO_URI
-// mongodb+srv://realback4c:02may2018@cluster0.fce46.mongodb.net/realback?retryWrites=true&w=majority
-
-// PASS
-// bmqkbsakoddlgxgy
-
-// SECRET_KEY
-// mynameisrealbackcompanyhellowelcome
